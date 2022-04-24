@@ -1,4 +1,11 @@
 # myconfigs
 ### my arch linux configurations
-#### these are my arch linux configuration files for i3wm
-#### you can use these just bu running the shellscript file provided
+<p> these are my arch linux configuration files for i3wm<br>you can use these just by running the shellscript file provided </p>
+<pre><code>
+i3-gaps
+nitrogen
+polybar
+terminator
+rofi
+
+</code></pre>
